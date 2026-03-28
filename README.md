@@ -1,0 +1,1 @@
+A Student Database Management System in Python is a simple application that uses Python programming to store, manage, and retrieve student information efficiently to keep records such as student names, IDs, courses, marks,
